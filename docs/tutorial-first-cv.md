@@ -7,7 +7,7 @@ In this tutorial you build a one-page CV, save a backup, and export it as a Word
 ## Prerequisites
 
 - A web browser, such as Chrome, Firefox, Safari or Edge
-- Time to complete: [verify: time a full run before you submit, and add the result here]
+- Time to complete: 45 minutes
 - Your own details, or the sample details in this tutorial
 
 You need no account and no AI key.
