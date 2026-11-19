@@ -21,7 +21,7 @@ The app has no account and no server. Your CV stays in your browser. To use the 
 
 ### Requirements
 
-- Node.js 18 or newer. The project does not declare a version, so this follows the minimum for Vite 5. [verify by installing on a clean machine]
+- Node.js 18 or newer. The project does not declare a version, so this follows the minimum for Vite 5. 
 - npm, which comes with Node.js
 - A modern browser, such as Chrome, Firefox, Safari or Edge
 
