@@ -246,9 +246,3 @@ payload[id] = getEntries(id, cvData[id])
 
 This document shows 15 of the 71 comments: all 5 added comments and 10 original comments.
 
-## Notes for the author
-
-- Keep only the added comments you can explain, and say so in your process document.
-- If you used an AI tool to shorten comments or draft added ones, disclose it as the module requires.
-- The snippets come from the source on the `main` branch. Check them against your copy before you submit.
-
