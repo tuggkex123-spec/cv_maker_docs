@@ -268,7 +268,7 @@ Use this guide to choose which sections appear on your CV and the order they app
 
 ### Visuals
 
-No screenshot in this file yet. Add the Sections panel with its checkboxes and drag handles here.
+![The Sections panel, with checkboxes on the right and drag handles on the left](images/sections-panel.png)
 
 ### Example
 

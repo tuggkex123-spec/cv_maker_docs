@@ -44,6 +44,8 @@ Scroll down to the **Sections** panel. Its subtitle reads *Toggle on/off · Drag
 
 By default, five sections are ticked: **Profile**, **Experience**, **Projects**, **Education** and **Skills**. The other four are greyed out.
 
+![The Sections panel, with Profile, Experience, Projects, Education and Skills ticked, and Languages, Certifications & Awards, Volunteer & Extracurriculars and Custom Section unticked](images/sections-panel.png)
+
 For this tutorial:
 
 1. Untick **Projects**. The row turns grey, and the section leaves your CV. You will leave it out to keep the tutorial short.
